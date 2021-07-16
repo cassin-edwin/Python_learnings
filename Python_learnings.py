@@ -1,6 +1,6 @@
 '''
 
-#Defaultdict
+ #Defaultdict
 from collections import defaultdict
 
 def def_value():
